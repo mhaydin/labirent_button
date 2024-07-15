@@ -3,7 +3,7 @@ from tkinter import ttk
 import socket
 from datetime import datetime
 
-SERVER_IP = 'raspberrypi.local'
+SERVER_IP = '172.17.0.1'
 SERVER_PORT = 12345
 
 STORE_NAMES = [
