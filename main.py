@@ -7,7 +7,7 @@ SERVER_IP = '172.17.0.1'
 SERVER_PORT = 12345
 
 STORE_NAMES = [
-    "Koton", "Hakan Optik", "Şok Market", "Tavada Tavuk", "D&R", "İpekyol", "Chocolabs", "Mr. Fenomen",
+    "Koton", "Hakan Optik", "Hilal", "Şok Market", "Tavada Tavuk", "D&R", "İpekyol", "Chocolabs", "Mr. Fenomen",
     "Baştacı", "Caccao", "HD İskender", "Burger King", "Esperro Cafe", "Watsons", "Antepeli Lahmacun",
     "Pasaport Pizza", "Sporjinal", "Bursa İshakbey", "Takı Your", "Kılıfçım", "B&G Store", "David Walker",
     "Defacto", "Sport In Street", "Colin's", "Oranj Play House", "Popeyes", "Tuğba", "Cinefora Sinemaları",
